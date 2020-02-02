@@ -20,3 +20,4 @@ after_success:
   - docker push mpltr/multi-nginx
   - docker push mpltr/multi-server
   - docker push mpltr/multi-worker
+  # do something else
