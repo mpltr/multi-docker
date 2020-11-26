@@ -21,7 +21,7 @@
         },
         {
             "name": "nginx",
-            "image": "stephengrider/multi-nginx",
+            "image": "mpltr/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMappings": [
